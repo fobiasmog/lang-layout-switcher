@@ -1,5 +1,5 @@
-### LangLayoutSwitcher
-___
+# LangLayoutSwitcher
+
 It's a simple JS library to convert text from one keyboard layout to another
 
 ``` js
