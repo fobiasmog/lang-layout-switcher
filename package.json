@@ -1,0 +1,35 @@
+{
+  "name": "lang-layout-switcher",
+  "version": "1.0.0",
+  "description": "Simple JS library to convert text from one keyboard layout to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fobiasmog/lang-layout-switcher.git"
+  },
+  "author": "Evgeny Breykin <zbrejkin@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fobiasmog/lang-layout-switcher/issues"
+  },
+  "homepage": "https://github.com/fobiasmog/lang-layout-switcher#readme",
+  "keywords": [
+    "keyboard",
+    "keyboard layout",
+    "layout switch",
+    "russian",
+    "english",
+    "change"
+  ],
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-standard": "^14.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
