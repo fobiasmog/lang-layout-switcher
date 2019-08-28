@@ -1,4 +1,4 @@
-import langSwitch from '../index'
+import langSwitch from '../switcher'
 
 test('ghbdtn => привет', () => {
   expect(langSwitch('ghbdtn')).toBe('привет')

@@ -2,10 +2,10 @@
   "name": "lang-layout-switcher",
   "version": "1.0.3",
   "description": "Simple JS library to convert text from one keyboard layout to another",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "build": "babel index.js -d dist",
-    "lint": "eslint index.js",
+    "build": "babel switcher.js -o index.js",
+    "lint": "eslint switcher.js",
     "test": "jest"
   },
   "repository": {
