@@ -1,6 +1,6 @@
 {
   "name": "lang-layout-switcher",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple JS library to convert text from one keyboard layout to another",
   "main": "index.js",
   "scripts": {
